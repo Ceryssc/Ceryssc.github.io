@@ -15,12 +15,18 @@ body {
 }
 .main{
     background-color: lightcyan;
+   border-radius: 100px;
 
+}
+.blogpart1 {
+    text-align: center;
+    margin-top: 180px;
 
 }
 
-
-
+.para {
+    margin-top: 50px;
+}
 
 .animation {
     width: 100px;
@@ -57,7 +63,7 @@ h1{
 }
 
 hr { 
-    width: 300px;
+    width: 350px;
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -73,6 +79,8 @@ hr {
       text-align: center;
     }
 
-.dropdown { text-align: center;
+.dropdown { 
+    text-align: center;
+    margin-top: 20px;
 
 }

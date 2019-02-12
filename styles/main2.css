@@ -120,7 +120,8 @@ body {
   .slider__txt {
     color: #999;
     margin-bottom: 3rem;
-    max-width: 100-px;
+    max-width: 800px;
+    background-color: white;
   }
   
   @-webkit-keyframes check {
