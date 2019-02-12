@@ -15,7 +15,7 @@ body {
 }
 .main{
     background-color: lightcyan;
-   border-radius: 100px;
+    border-radius:50px;
 
 }
 .blogpart1 {
@@ -24,9 +24,6 @@ body {
 
 }
 
-.para {
-    margin-top: 50px;
-}
 
 .footer {
     text-align: center;
