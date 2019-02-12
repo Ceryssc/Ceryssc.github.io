@@ -16,7 +16,7 @@ body {
 }
 
 .slider {
-  height: 140%;
+  height: 50%;
   position: relative;
   overflow: hidden;
   display: -webkit-box;
