@@ -9,21 +9,15 @@ body {
     height: 100%;
     background-position: center;
   background-repeat: no-repeat;
- 
-
-
-
-
-
-
-
 }
 
 .animated {
     margin-top: 3ß00px;
 }
 
-
+.main {
+    background-color: aqua;
+}
 
 
 
