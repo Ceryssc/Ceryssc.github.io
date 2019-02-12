@@ -1,3 +1,7 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+
 body {
     /* background: lightgrey; */
     margin-top:300px;
@@ -7,6 +11,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 
+
 }
 .main{
     background-color: lightcyan;
@@ -15,7 +20,7 @@ body {
 }
 
 
-   
+
 
 .animation {
     width: 100px;
