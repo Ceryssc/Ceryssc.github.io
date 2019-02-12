@@ -13,16 +13,14 @@ body {
 
 
 }
-.main{
-    background-color: lightcyan;
-    border-radius:50px;
 
-}
-.blogpart1 {
-    text-align: center;
-    margin-top: 180px;
 
+.animated {
+    margin-top: 4000px;
 }
+
+
+
 
 
 .footer {
