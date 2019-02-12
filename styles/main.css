@@ -28,6 +28,14 @@ body {
     margin-top: 50px;
 }
 
+.footer {
+    text-align: center;
+    margin-top: 610px;
+    left: 0;
+    bottom: 500%
+
+}
+
 .animation {
     width: 100px;
     height: 100px;
@@ -38,6 +46,11 @@ body {
     animation-name: example;
     animation-duration: 4s;
   }
+
+.animated {   font-family: 'Major Mono Display', monospace;
+    font-family: 'Amatic SC', cursive;
+
+}
 
   @keyframes example {
     0%   {background-color:red; left:0px; top:0px;}
@@ -53,6 +66,10 @@ h1{
     font-size: 5em; 
 
 
+}
+
+.animated {
+    font-size: 5em;
 }
 
 .blog {
