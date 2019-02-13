@@ -17,10 +17,12 @@ body {
     background-color: aqua;
     font-family: 'Major Mono Display', monospace;
     font-family: 'Amatic SC', cursive;
-  
+    font-size:1em;
 }
 
-
+.navbar {
+    width: 100%;
+}
 
 .footer {
     text-align: center;
