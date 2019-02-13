@@ -3,20 +3,21 @@
   }
 
 body {
-    /* background: lightgrey; */
+
     margin-top: 300px;
-    /* background-image: url("images/david-papillon-1310641-unsplash.jpg"); */
+
     height: 100%;
     background-position: center;
   background-repeat: no-repeat;
 }
 
-.animated {
-    margin-top: 3ß00px;
-}
+
 
 .main {
     background-color: aqua;
+    font-family: 'Major Mono Display', monospace;
+    font-family: 'Amatic SC', cursive;
+  
 }
 
 
@@ -64,6 +65,9 @@ body {
 
 .animated {
     font-size: 5em;
+    text-align: center;
+    font-family: 'Major Mono Display', monospace;
+    font-family: 'Amatic SC', cursive;
 }
 
 .blog {
