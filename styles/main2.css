@@ -15,6 +15,9 @@ body {
   line-height: 1.5;
 }
 
+
+
+
 .slider {
   height: 50%;
   position: relative;
@@ -67,6 +70,8 @@ body {
 .slider__nav:checked:nth-of-type(4) ~ .slider__inner {
   left: -300%;
 }
+
+
 .slider__inner {
   position: absolute;
   top: 0;
