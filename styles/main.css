@@ -50,9 +50,9 @@ body {
     animation-name: example;
     animation-duration: 4s;
   }
-
+/* 
 .animated {   font-family: 'Major Mono Display', monospace;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Amatic SC', cursive; */
 
 }
 
@@ -74,7 +74,7 @@ body {
 }
 
 .animated {
-    font-size: 5em;
+    font-size: 4em;
     text-align: center;
     font-family: 'Major Mono Display', monospace;
     font-family: 'Amatic SC', cursive;
